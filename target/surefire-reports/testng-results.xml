@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[11230 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> name: zipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: trans-fake-get-quote] <---- has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: lbl-0-7] <---- has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: body-btn-get-quote] <---- has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_lblHeader]<--- has text =Information About You<br>]]>
+    </line>
+    <line>
+      <![CDATA[Ahad : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> xpath: //input[@id='ctl00_mainContent_ucConsumer_firstname']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Ritto : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_lastname]<br>]]>
+    </line>
+    <line>
+      <![CDATA[abcd@gmail : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[123 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_homephone1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[456 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_homephone2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[7890 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_homephone3]<br>]]>
+    </line>
+    <line>
+      <![CDATA[999 e 42ND st : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_street]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Brooklyn : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_city]<br>]]>
+    </line>
+    <line>
+      <![CDATA[11230 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_zipcode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> xpath: //select[@id='ctl00_mainContent_ucConsumer_cboDOB']]<---- has been present<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> xpath: //select[@id='ctl00_mainContent_ucConsumer_cboDOB']]<---- is VISIBLE<br>]]>
+    </line>
+    <line>
+      <![CDATA[4:has been selected for ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> xpath: //select[@id='ctl00_mainContent_ucConsumer_cboDOB']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[14 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_txtDOBDay]<br>]]>
+    </line>
+    <line>
+      <![CDATA[1997 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_txtDOBYear]<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddYearsExperience]<---- has been present<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddYearsExperience]<---- is VISIBLE<br>]]>
+    </line>
+    <line>
+      <![CDATA[1_3:has been selected for ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddYearsExperience]<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddEdeucationLevel]<---- has been present<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddEdeucationLevel]<---- is VISIBLE<br>]]>
+    </line>
+    <line>
+      <![CDATA[Basic:has been selected for ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddEdeucationLevel]<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_btnContinue] <---- has been clicked<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-07T23:22:28 EST" name="Suite" finished-at="2023-01-07T23:22:36 EST" duration-ms="7680">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T23:22:28 EST" name="Test" finished-at="2023-01-07T23:22:36 EST" duration-ms="7680">
+      <class name="home.BoatQuoteTest">
+        <test-method is-config="true" signature="initiatinExtentReport()[pri:0, instance:home.BoatQuoteTest@26e356f0]" started-at="2023-01-07T23:22:28 EST" name="initiatinExtentReport" finished-at="2023-01-07T23:22:28 EST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiatinExtentReport -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:home.BoatQuoteTest@26e356f0]" started-at="2023-01-07T23:22:28 EST" name="beforeEachTest" finished-at="2023-01-07T23:22:28 EST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void home.BoatQuoteTest.boatQuoteFlow()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method is-config="true" signature="setUpDriver(java.lang.String)[pri:0, instance:home.BoatQuoteTest@26e356f0]" started-at="2023-01-07T23:22:28 EST" name="setUpDriver" finished-at="2023-01-07T23:22:32 EST" duration-ms="3512" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method signature="boatQuoteFlow()[pri:0, instance:home.BoatQuoteTest@26e356f0]" started-at="2023-01-07T23:22:32 EST" name="boatQuoteFlow" finished-at="2023-01-07T23:22:36 EST" duration-ms="3988" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[11230 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> name: zipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: trans-fake-get-quote] <---- has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: lbl-0-7] <---- has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: body-btn-get-quote] <---- has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_lblHeader]<--- has text =Information About You<br>]]>
+            </line>
+            <line>
+              <![CDATA[Ahad : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> xpath: //input[@id='ctl00_mainContent_ucConsumer_firstname']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Ritto : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_lastname]<br>]]>
+            </line>
+            <line>
+              <![CDATA[abcd@gmail : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[123 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_homephone1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[456 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_homephone2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[7890 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_homephone3]<br>]]>
+            </line>
+            <line>
+              <![CDATA[999 e 42ND st : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_street]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Brooklyn : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_city]<br>]]>
+            </line>
+            <line>
+              <![CDATA[11230 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_zipcode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> xpath: //select[@id='ctl00_mainContent_ucConsumer_cboDOB']]<---- has been present<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> xpath: //select[@id='ctl00_mainContent_ucConsumer_cboDOB']]<---- is VISIBLE<br>]]>
+            </line>
+            <line>
+              <![CDATA[4:has been selected for ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> xpath: //select[@id='ctl00_mainContent_ucConsumer_cboDOB']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[14 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_txtDOBDay]<br>]]>
+            </line>
+            <line>
+              <![CDATA[1997 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ucConsumer_txtDOBYear]<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddYearsExperience]<---- has been present<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddYearsExperience]<---- is VISIBLE<br>]]>
+            </line>
+            <line>
+              <![CDATA[1_3:has been selected for ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddYearsExperience]<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddEdeucationLevel]<---- has been present<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddEdeucationLevel]<---- is VISIBLE<br>]]>
+            </line>
+            <line>
+              <![CDATA[Basic:has been selected for ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_ddEdeucationLevel]<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> id: ctl00_mainContent_btnContinue] <---- has been clicked<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- boatQuoteFlow -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:home.BoatQuoteTest@26e356f0]" started-at="2023-01-07T23:22:36 EST" name="afterEachTest" finished-at="2023-01-07T23:22:36 EST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=boatQuoteFlow status=SUCCESS method=BoatQuoteTest.boatQuoteFlow()[pri:0, instance:home.BoatQuoteTest@26e356f0] output=11230 : has been passed to ---->[[ChromeDriver: chrome on WINDOWS (c82ab5a3317d322dd36a787b63a1bde5)] -> name: zipCode]<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="closingDriverSession()[pri:0, instance:home.BoatQuoteTest@26e356f0]" started-at="2023-01-07T23:22:36 EST" name="closingDriverSession" finished-at="2023-01-07T23:22:36 EST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingDriverSession -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:home.BoatQuoteTest@26e356f0]" started-at="2023-01-07T23:22:36 EST" name="closeReport" finished-at="2023-01-07T23:22:36 EST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- home.BoatQuoteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
